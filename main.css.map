@@ -1,1 +1,1 @@
-{"version":3,"file":"main.css","mappings":"AAAA;CACC,8BAA8B;AAC/B","sources":["webpack://odin-template-repo/./src/style.css"],"sourcesContent":["body {\n\tbackground-color: lightskyblue;\n}\n"],"names":[],"sourceRoot":""}
+{"version":3,"file":"main.css","mappings":"AAAA;CACC,wBAAwB;AACzB","sources":["webpack://odin-template-repo/./src/style.css"],"sourcesContent":["body {\n\tbackground-color: violet;\n}\n"],"names":[],"sourceRoot":""}
