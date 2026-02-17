@@ -1,1 +1,1 @@
-# odin-template-repo
+# Template for Odin Projects
