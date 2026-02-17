@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;CACC,8BAA8B;AAC/B","sources":["webpack://odin-template-repo/./src/style.css"],"sourcesContent":["body {\n\tbackground-color: lightskyblue;\n}\n"],"names":[],"sourceRoot":""}
